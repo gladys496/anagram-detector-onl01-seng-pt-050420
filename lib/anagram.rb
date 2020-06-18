@@ -4,7 +4,7 @@ class Anagram
   
   initialize (name)
   @name = name 
-end 
+
   
   
 end 
