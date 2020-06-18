@@ -2,7 +2,7 @@ class Anagram
   
   attr_accessor :name 
   
-  initialize (name)
+  initialize(name)
   @name = name 
 
   
